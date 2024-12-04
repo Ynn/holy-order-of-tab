@@ -54,9 +54,9 @@ title = 'The Holy Order of Tab'
     title = "The Holy Order of Tab"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Our mission is to guide terminal users toward a brighter, more efficient future by spreading the gospel of autocomplete and reducing the burden of unnecessary keystrokes."
       owner = ""
-      keywords = ""
+      keywords = "tab"
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
