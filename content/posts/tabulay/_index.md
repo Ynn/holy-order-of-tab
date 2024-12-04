@@ -7,7 +7,7 @@
 
 
 #### **What is TabULay?**  
-TabULay, short for **Tab Layout**, is the revolutionary keyboard layout that eliminates all distractions by replacing every single key with the **Tab key**. No letters, no numbers, no pesky symbols—just **pure Tab power** at your fingertips.
+TabULay, short for **Tab Ultimate Layout**, is the revolutionary keyboard layout that eliminates all distractions by replacing every single key with the **Tab key**. No letters, no numbers, no pesky symbols—just **pure Tab power** at your fingertips.
 
 With TabULay, you’ll never struggle to find the right key again. Why waste time pressing other keys when the **Tab** key can do it all? Forget about Dvorak, Colemak, or other so-called “efficient” layouts—TabULay is the only layout that guarantees total consistency and muscle memory.
 
