@@ -1,5 +1,6 @@
 ### WHY ?
 
+
 ---
 
 **Imagine This Scene:**  
@@ -18,6 +19,8 @@ The air is heavy with frustration, and your heart sinks as you wonder:
 *"How have we failed them so profoundly?"*
 
 ---
+
+
 
 #### **The Pain of the Tab-less Society**  
 
@@ -62,3 +65,4 @@ The worst part? It’s not just students. Oh no, colleagues in otherwise reputab
 Autocompletion isn’t a bonus skill—it’s **table stakes** for anyone who touches a terminal. If you type `git com<Tab>` and don’t feel the joy of instant completion, are you even living?  
 
 
+![](why.webp)

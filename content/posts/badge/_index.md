@@ -1,5 +1,3 @@
-
-
 ### **Get a Badge: Prove Your Devotion to The Holy Order of Tab**  
 
 Choose your level of commitment and display your Tab prowess with pride! Whether you’re a humble novice or a grandmaster of Tab, there’s a title and badge just for you. Select your rank, customize your badge, and share it with the world to inspire others to join the Holy Order.

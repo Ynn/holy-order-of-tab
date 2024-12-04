@@ -13,3 +13,11 @@ We believe that the **<kbd>Tab</kbd> key** is more than just a button—it’s a
 
 To create a world where no terminal user types a full file path, command, or option again. Together, we can make autocomplete a universal practice, one keystroke at a time.
 
+<footer class="footer">
+  <div class="footer__inner">
+      <div class="copyright">
+      <span><a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
+      </div>
+  </div>
+</footer>
+
